@@ -7,3 +7,8 @@
 - [x] Authenticate with GitHub using gh (manual via token)
 - [x] Create a new GitHub repository named 'DSA-Experiments' (done manually)
 - [x] Push the code to the new repository
+- [x] Verify code correctness by compiling each C file
+- [x] Add compiled executables and commit
+- [x] Push final commit to GitHub
+- [x] Remove .exe files from repository and local directory
+- [x] Commit and push the removal
